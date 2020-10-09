@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guard for grandma</string>
+    <string name="service_start">service start</string>
+</resources>
